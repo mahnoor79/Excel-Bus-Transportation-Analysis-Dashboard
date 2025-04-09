@@ -140,10 +140,14 @@ Bus utilization insights
 
 This helps transportation authorities make data-informed decisions and optimize public transport services.
 
-**📧 Contact**
+# 📧 Contact
+
 Mahnoor Naseer Ahmad
+
 ✉️ mahnoornoorg57@gmail.com
+
 🔗 Follow me on LinkedIn for more updates
+
 https://www.linkedin.com/in/mahnoor-naseer-ahmad/
 
 
