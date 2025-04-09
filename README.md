@@ -1,7 +1,8 @@
 # Excel-Bus-Transportation-Analysis-Dashboard
 "Analyzes bus transportation data to optimize routes, track performance, and improve efficiency."
 
-🚍 Bus Transportation Analysis Dashboard
+**🚍 Bus Transportation Analysis Dashboard**
+
 A complete data analysis project using Microsoft Excel tools like Power Query, Power Pivot, DAX, and M-code to analyze a two-year transportation system.
 
 📌 Objective
